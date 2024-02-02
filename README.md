@@ -1,5 +1,5 @@
 # BorderHopper
-Open source game simiar to https://travle.earth/
+Open source game simiar to https://travle.earth/. Written as a university project. 
 
 # Steps to setup the game
 
